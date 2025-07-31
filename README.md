@@ -29,3 +29,13 @@
 * fastleap, hclip, invictimers, leveraura
 * leapmsg, no interact, storm timer
 * term AC, auto melody, autoterms
+
+
+### Install Guide
+
+1. Unzip
+2. copy unzipped folder (CTRL + C or right click folder and copy)
+3. when ingame with Chattriggers loaded (https://chattriggers.com use stable then place in mods folder. use The Breakdown Guide if help is needed)
+4. when ingame with Chattriggers do /ct files -> click on modules folder and CTRL + V or right click inside the folder and click paste.
+5. do a /ct load ingame
+6. all done! enjoy!
